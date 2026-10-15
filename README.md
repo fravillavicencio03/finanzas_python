@@ -20,4 +20,4 @@ Un sistema de gestión financiera personal diseñado para terminal de comandos (
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/fravillavicencio03/finanzas_python.git(https://github.com/TU-USUARIO/finanzas_python.git)
+   git clone [https://github.com/fravillavicencio03/finanzas_python.git](https://github.com/fravillavicencio03/finanzas_python.git)
